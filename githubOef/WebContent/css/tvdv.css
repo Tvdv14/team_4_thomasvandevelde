@@ -6,3 +6,18 @@ body{
 .tvdv-center{
 	text-align: center;
 }
+
+.tvdv-footer{
+	position: absolute;
+	bottom: 20px;
+}
+
+.tvdv-pic1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.tvdv-pic2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
